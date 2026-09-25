@@ -1,5 +1,7 @@
 # Sistema Biblioteca (2021)
 
+[Conheça meu portfólio e minha trajetória profissional](PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/danilo-silva-campos-1b7609109/)
+
 Projeto acadêmico de gestão de biblioteca desenvolvido em Python e Django. O código preserva a estrutura original para mostrar modelagem e organização da aplicação; não representa uma versão pronta para produção em 2026.
 
 ## Funcionalidades presentes no código
